@@ -21,7 +21,7 @@ A simple weather application built using **HTML**, **CSS**, and **JavaScript** t
 
 ## 📸 Preview
 
-<img width="500" alt="Weather App Preview" src="https://via.placeholder.com/500x250.png?text=Weather+App+Preview">
+<img width="500" alt="Weather App Preview" src="https://weather-app-delta-two-42.vercel.app/">
 
 ## ⚙️ Setup Instructions
 
